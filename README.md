@@ -223,7 +223,7 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
- ![Uploading image.png…]()
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://user-images.githubusercontent.com/119417735/235100986-21c1e336-1d25-468f-9bbc-63265747ede0.png)
