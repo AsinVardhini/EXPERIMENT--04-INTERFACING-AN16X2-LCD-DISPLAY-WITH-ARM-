@@ -222,11 +222,10 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-
+ ![Screenshot 2023-04-25 112111](https://user-images.githubusercontent.com/119417735/234210001-fa3749c9-97dc-4343-85cc-9474e0d59961.png)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
- ![Screenshot 2023-04-25 112111](https://user-images.githubusercontent.com/119417735/234210001-fa3749c9-97dc-4343-85cc-9474e0d59961.png)
+ ![image](https://user-images.githubusercontent.com/119417735/235100986-21c1e336-1d25-468f-9bbc-63265747ede0.png)
 
  
 ## Result :
