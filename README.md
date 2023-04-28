@@ -190,8 +190,9 @@ int main(void)
   Lcd_HandleTypeDef lcd;
   lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
   Lcd_cursor(&lcd, 0,1);
-  Lcd_string(&lcd, "DEPT- AI&DS");
- 
+  Lcd_string(&lcd, "CSE(CS)");
+  Lcd_cursor(&lcd, 1,2);
+  Lcd_string(&lcd, "Asin Vardhini");
   while (1)
   {
     
@@ -222,8 +223,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
- ![Screenshot 2023-04-25 112111](https://user-images.githubusercontent.com/119417735/234210001-fa3749c9-97dc-4343-85cc-9474e0d59961.png)
- 
+ ![Uploading image.png…]()
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://user-images.githubusercontent.com/119417735/235100986-21c1e336-1d25-468f-9bbc-63265747ede0.png)
 
